@@ -1,0 +1,4 @@
+input:disabled {
+    background-color: #e5e7eb; /* Tailwind: bg-gray-200 */
+    color: #9ca3af; /* Tailwind: text-gray-400 */
+}
